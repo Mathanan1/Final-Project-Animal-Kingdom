@@ -1,0 +1,3 @@
+# Final-Project-Animal-Kingdom
+
+This project require us write Java code where Critter is the super class with default behavior defined and  will be writing five classes, each representing a different type of Animal: Bear, Tiger, WhiteTiger, Giant and NinjaCat. All of the classes right should be sub classes of Critter. On each round of the simulation, each critter is asked for 3 pieces of information such as How should it act?, What color is it? And What string represents that critter?. These 3 pieces of information are provided by 3 methods present in each Critter class and be responsible for overriding these methods and programming their appropriate behavior. 
